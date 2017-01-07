@@ -25,7 +25,7 @@ SECRET_KEY = 'zihajd&8aumjvqcobeh)4gb*mz76ra4f1qxvt@_ohv^l7dky+)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['smart-agent.herokuapp.com']
 
 
 # Application definition
