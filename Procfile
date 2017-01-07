@@ -1,1 +1,1 @@
-web: gunicorn nlp/nlp.wsgi
+web: gunicorn nlp.wsgi --pythonpath nlp/ --log-file -
